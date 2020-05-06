@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/dingwei"
+        android:title="地图" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/guanjun"
+        android:title="赞助榜" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/huodong"
+        android:title="活动" />
+    <item
+        android:id="@+id/fourFragment"
+        android:icon="@drawable/yiwen"
+        android:title="教程" />
+    <item
+        android:id="@+id/fiveFragment"
+        android:icon="@drawable/zutuan"
+        android:title="村庄"/>
+</menu>
